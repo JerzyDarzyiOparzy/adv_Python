@@ -1,1 +1,2 @@
-# adv_Python
+## Przemysław Jerzy Ćwik 
+# Nr.Indeksu: 164455
